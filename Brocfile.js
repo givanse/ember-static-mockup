@@ -33,4 +33,17 @@ app.import('bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.w
   { destDir: 'fonts' });
 app.import('bower_components/bootstrap/dist/js/bootstrap.js'); 
 
+// Fontawesome
+app.import('bower_components/fontawesome/css/font-awesome.css');
+app.import('bower_components/fontawesome/fonts/fontawesome-webfont.eot',
+           { destDir: 'fonts' });
+app.import('bower_components/fontawesome/fonts/fontawesome-webfont.ttf',
+           { destDir: 'fonts' });
+app.import('bower_components/fontawesome/fonts/fontawesome-webfont.svg',
+           { destDir: 'fonts' });
+app.import('bower_components/fontawesome/fonts/fontawesome-webfont.woff',
+           { destDir: 'fonts' });
+app.import('bower_components/fontawesome/fonts/fontawesome-webfont.woff2',
+           { destDir: 'fonts' });
+
 module.exports = app.toTree();

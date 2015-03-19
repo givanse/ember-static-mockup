@@ -8,6 +8,7 @@ Bundles:
 * [adamsrog/ember-cli-placeholdit](https://github.com/adamsrog/ember-cli-placeholdit/)
 * [aethermx/ember-cli-lorem-ipsum](https://github.com/aethermx/ember-cli-lorem-ipsum)
 * Bootstrap
+* Fontawesome 
 
 ## Prerequisites
 
