@@ -1,7 +1,13 @@
 # Ember-static-mockup
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Quickly build prototypes with Ember.js
+
+Bundles:
+
+* [alexspeller/ember-cli-active-link-wrapper](https://github.com/alexspeller/ember-cli-active-link-wrapper)
+* [adamsrog/ember-cli-placeholdit](https://github.com/adamsrog/ember-cli-placeholdit/)
+* [aethermx/ember-cli-lorem-ipsum](https://github.com/aethermx/ember-cli-lorem-ipsum)
+* Bootstrap
 
 ## Prerequisites
 
